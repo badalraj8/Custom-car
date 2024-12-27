@@ -9,8 +9,8 @@
 
         <div class="col-md-4 col-sm-12">
             <h4>Contact Us</h4>
-            <p>Phone Number - +91 6200712626</p>
-            <p>E-Mail - rprithvi653@gmail.com</p>
+            <p>Phone Number - +91 7667987627</p>
+            <p>E-Mail - badalrajbadal234@gmail.com</p>
         </div>
 
         <div class="col-md-4 col-sm-12">
@@ -22,7 +22,7 @@
         <div class="col-md-12 text-center">
             <hr class="bg-light">
             <p class="mb-0">All Rights Reserved &copy;</p>
-            <p>Made With ❣️ By Prithvi</p>
+            <p>Made With ❣️ By badal</p>
         </div>
     </div>    
 
